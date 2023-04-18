@@ -1,0 +1,37 @@
+.product {
+  border: 2px solid #d2d2d2;
+  width: 100%;
+  border-radius: 28px;
+}
+
+.product span {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+  color: #0e2368;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.product p {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 27px;
+  letter-spacing: 0.1px;
+  word-spacing: 0.1px;
+  color: #444957;
+}
+
+.product button {
+  height: 36px;
+  width: 110px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  color: #424961;
+  border: 2px solid #424961;
+  background-color: transparent;
+}
